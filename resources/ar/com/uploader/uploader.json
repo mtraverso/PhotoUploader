@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "bubbly-domain-129702",
-  "private_key_id": "d1040e8a6f67229756cbbc1892c3f9f52227fa57",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXhg8tuKSF5Qnw\nW6oR/fEbWf0vDs1RGqpRAA9VZP3CA80QT8b5GYs3WFlPvwMh0m+t4CbiXY3kzjVG\n2jpw+aCuPMCFTUV1R9GsLT4+Nh+38uocGj8AzG9W6tVXg2fzGINHaZ378nWRtSEk\nm888zfnh2zm9S2LQYAINhDLM4v59rewZb6u23uSEMKlyUMvc+ZK27ldZer0A/o2D\npNyuugPlOEJgug/B27pUpnNaoFX+2YDQyNYyQYP6qyjMEc0I/gdqhJ23VXtePYLI\neOP842rO2NaTi4dEPzv55ASnqva6ZYFxuV8QS1EUsa2N/TsbnIIJePFRE7CJAung\n2PBHWlg9AgMBAAECggEAXpU7MlIYuM/AxX2iirqWX3lr1o0J0r+vYwKDj82LrSkM\nP0tdK68rPK/0iBf2z4z5U3MhMpotcY7aqNCePFlGWJzpnAwg+FWNZ0mSmejVIdEL\nG+GyREBYm8vYwljvcUpy4AfoqxWtF/gVqTFtSkpU2gwrXaMKGoJjpaZIw6ZKL46D\nl8bMd+0jMmjDQbmKTbe6PzC7Od9nLPWVTZAH7NsThtX6usGirUV4DOKHTRXL3uWv\nk5qiaPiFTOzoL9Sv37nHBpxn/AjEdkb5ND+2vgkDGC7nyAiLbvMCk2YJk7oAAC/v\n0ZOGEnSDlEXgZJ1W0It1IdOV9sC6YqIbibe7AXtYbQKBgQDWVza/xI2tG5NKNncF\n24DsnH6ZJlw1uZy3sUXRzAMG++8jY6B+Va58yldLdWrpQvn4LOedwMmTm2p6NXng\nUa+Dhb1OTOs4VkpjQzLosefKAeYkxY/J8yALwogC+uFhjY7atk7rNMIOFxj2OzTK\nZLutl+2x+2H9Jab5lDt/7uGT5wKBgQC0+U6nSBH7DhovjXjqSWxVb0E2s8NTuyvt\n0cmFpTnJMPDAUPIcJvIjyYjIXcbmX++9DB7o4lc6T7T+rvF879EV6RmYsREt14Yw\n1AjRaTwQVPx0+RdbxgoleBR0gcSMAZ3GMWxR0LgTdS+0yTA154SyyyndbfHscCpu\npSrV27BuOwKBgBRb6l5ivBZSRTZKYBnVVLSk1L2VUDLmM4WbOAeKeksiiP9yih8V\n4mIGEi6fs4z+iKHTGhj44+y6WW3MQIxXFfXHMUkLs1gBkkVFb8N8ioi8j3C0t0i2\naDfVvXeS/u92M7iAkpRyyW/vL7bLvuLumIkPoktClncmKWsRcmlfdlvHAoGARIE6\n7MezRr2H3AhJhSZWA+EhZnuVrNRlRJjtF9H7ldUYzTPW8iEr97AKPw6AhCQ8s+sq\nqC1Fp6UUdnPypcCB/TFHpy0fu6KiAUnCLMMRIX2KMx03Yl4M6TITTCbzJ6xU9Pkw\nb6f6hiMN8/lUbpM9ABE3v8ImmcG7zjZniJyopJECgYBI1ZaBXoJf9MlEMQgd487N\nwX5vwE5Tux/QTAFV018wj3xFST3o+7OgyyM+5FzGI+ljdbhvb3vZQIdV/husqLMG\nt0BccHbig6xsaygAj7MhyX4qKFqhEkrjxtVxskJod7ePMIJyKf2Gj2anQXuFcATf\njohunsyr1HCg35okxSZhEA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "bubbly-domain-129702@appspot.gserviceaccount.com",
-  "client_id": "116059880513612807761",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://accounts.google.com/o/oauth2/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bubbly-domain-129702%40appspot.gserviceaccount.com"
-}
+
